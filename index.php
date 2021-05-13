@@ -1,6 +1,6 @@
 <?php
 
-print "Hello Terraform";
-print "PHP test done on webserver by TF!!!";
+print "Hello Terraform </br>";
+print "</br >PHP test done on webserver by TF!!!";
 
 ?>
